@@ -1,1 +1,1 @@
-DRI_PRIME=1 blender
+DRI_PRIME=1 blender --python /script.py
